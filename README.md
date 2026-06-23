@@ -94,25 +94,25 @@
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?w=400" alt="Pantalon Chino" class="product-img">
                 <h3 class="product-title">Pantalon Chino Ajusté</h3>
                 <p class="product-price">45 000 Ar</p>
-                <a href="https://wa.me/261343146589?text=Bonjour,%20je%20souhaite%20commander%20le%20Pantalon%20Chino%20Ajust%C3%A9%20%C3%A0%2045000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
+                <ahref="https://wa.me/261386287680?text=Bonjour,%20je%20souhaite%20commander%20le%20Pantalon%20Chino%20Ajust%C3%A9%20%C3%A0%2045000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
             </div>
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=400" alt="Robe d'été" class="product-img">
                 <h3 class="product-title">Robe d'Été Fleurie</h3>
                 <p class="product-price">60 000 Ar</p>
-                <a href="https://wa.me/261343146589?text=Bonjour,%20je%20souhaite%20commander%20la%20Robe%20d%27%C3%89t%C3%A9%20Fleurie%20%C3%A0%2060000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
+                <a href="https://wa.me/261386287680?text=Bonjour,%20je%20souhaite%20commander%20la%20Robe%20d%27%C3%89t%C3%A9%20Fleurie%20%C3%A0%2060000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
             </div>
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1479064555552-3ef4979f8908?w=400" alt="Pantalon Costume" class="product-img">
                 <h3 class="product-title">Pantalon de Costume Slim</h3>
                 <p class="product-price">65 000 Ar</p>
-                <a href="https://wa.me/261343146589?text=Bonjour,%20je%20souhaite%20commander%20le%20Pantalon%20de%20Costume%20Slim%20%C3%A0%2075000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
+                <a href="https://wa.me/261386287680?text=Bonjour,%20je%20souhaite%20commander%20le%20Pantalon%20de%20Costume%20Slim%20%C3%A0%2075000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
             </div>
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400" alt="Robe de soirée" class="product-img">
                 <h3 class="product-title">Robe de Soirée Élégante</h3>
                 <p class="product-price">85 000 Ar</p>
-                <a href="https://wa.me/261343146589?text=Bonjour,%20je%20souhaite%20commander%20la%20Robe%20de%20Soir%C3%A9e%20%C3%89l%C3%A9gante%20%C3%A0%2095000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
+                <a href="https://wa.me/261386287680?text=Bonjour,%20je%20souhaite%20commander%20la%20Robe%20de%20Soir%C3%A9e%20%C3%89l%C3%A9gante%20%C3%A0%2095000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
             </div>
         </div>
     </div>
@@ -147,10 +147,10 @@
         <div class="contact-container">
             <p>Pour valider votre panier, poser une question ou passer une commande personnalisée, contactez-nous directement :</p>
             <div class="contact-buttons">
-                <a href="https://wa.me/261343146589?text=Bonjour%20Modeélegance,%20je%20souhaite%20discuter%20pour%20un%20achat" target="_blank" class="contact-link btn-whatsapp">
+                <a href="https://wa.me/261386287680?text=Bonjour%20Modeélegance,%20je%20souhaite%20discuter%20pour%20un%20achat" target="_blank" class="contact-link btn-whatsapp">
                     💬 Commander via WhatsApp
                 </a>
-                <a href="tel:+261343136589" class="contact-link btn-phone">
+                <a href="tel:+261386287680" class="contact-link btn-phone">
                     📞 Nous Appeler Directement
                 </a>
             </div>
