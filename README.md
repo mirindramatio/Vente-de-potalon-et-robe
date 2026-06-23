@@ -94,7 +94,7 @@
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?w=400" alt="Pantalon Chino" class="product-img">
                 <h3 class="product-title">Pantalon Chino Ajusté</h3>
                 <p class="product-price">45 000 Ar</p>
-                <ahref="https://wa.me/261386287680?text=Bonjour,%20je%20souhaite%20commander%20le%20Pantalon%20Chino%20Ajust%C3%A9%20%C3%A0%2045000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
+                <a href="https://wa.me/261386287680?text=Bonjour,%20je%20souhaite%20commander%20le%20Pantalon%20Chino%20Ajust%C3%A9%20%C3%A0%2045000%20Ar" target="_blank" class="btn">Commander sur WhatsApp</a>
             </div>
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=400" alt="Robe d'été" class="product-img">
